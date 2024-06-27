@@ -1,6 +1,6 @@
-# calc
+# Calculadora
 Calculadora feita em linguagem JavaScript, replicando uma calculadora de celular.
 
 
-# calc
+# Calculator
 Calculator made in JavaScript language, replicating a cell phone calculator.
